@@ -25,7 +25,7 @@ Além disso, os seguintes pacotes são necessários:
 Clone este repositório para o seu computador:
 
 ```bash
-git clone https://github.com/seu-usuario/avatar-downloader-rotator.git
+git clone https://github.com/KillDarkness/GenAvatar.git
 ```
 
 ### 2. Instalar Dependências
